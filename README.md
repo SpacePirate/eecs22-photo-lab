@@ -1,1 +1,1 @@
-"# eecs22-photo-lab" 
+# eecs22-photo-lab
